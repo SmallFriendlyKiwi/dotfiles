@@ -152,7 +152,7 @@ bar {
         status_command i3status
 }
 
-# lock computer (Alt + Delete)
+# Lock computer (Mod + Delete)
 bindcode $mod+119 exec i3lock -c 000000
 
 # Chromium
