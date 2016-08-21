@@ -153,4 +153,6 @@ bar {
 }
 
 bindsym $mod+c exec chromium
+
+# Sublime Text
 bindsym $mod+t exec subl
